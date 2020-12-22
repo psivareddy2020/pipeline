@@ -15,6 +15,7 @@ namespace pipeline
     {
         public Startup(IConfiguration configuration)
         {
+            //Testing Azure pipeline created for GitHub repository-- tigger--main branch commits.
             Configuration = configuration;
         }
 
